@@ -1953,44 +1953,44 @@ public class ModelSD70M extends ModelConverter //Same as Filename
 		if (GetColor(entity) == 1) {
 			Tessellator.bindTexture(new ResourceLocation(Info.resourceLocation, "textures/trains/newBogies/HTCR_newer_itsilver.png"));
 			GL11.glPushMatrix();
-			GL11.glTranslatef(-1.97F, 0.0F, 0F);
+			GL11.glTranslatef(-2.01F, -0.005F, 0F);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 
 			GL11.glRotatef(180, 0, 1, 0);
-			GL11.glTranslated(-3.95F, 0.0F, 0);
+			GL11.glTranslated(-4.015F, 0.0F, 0);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 			GL11.glPopMatrix();
 
 		}else if (GetColor(entity) == 1213) {
 			Tessellator.bindTexture(new ResourceLocation(Info.resourceLocation, "textures/trains/newBogies/HTCR_newer_bnsilver.png"));
 			GL11.glPushMatrix();
-			GL11.glTranslatef(-1.97F, 0.0F, 0F);
+			GL11.glTranslatef(-2.01F, -0.005F, 0F);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 
 			GL11.glRotatef(180, 0, 1, 0);
-			GL11.glTranslated(-3.95F, 0.0F, 0);
+			GL11.glTranslated(-4.015F, 0.0F, 0);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 			GL11.glPopMatrix();
 
 		}else if (GetColor(entity) == 232) {
 			Tessellator.bindTexture(new ResourceLocation(Info.resourceLocation, "textures/trains/newBogies/HTCR_newer_upgrey.png"));
 			GL11.glPushMatrix();
-			GL11.glTranslatef(-1.97F, 0.0F, 0F);
+			GL11.glTranslatef(-2.01F, -0.005F, 0F);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 
 			GL11.glRotatef(180, 0, 1, 0);
-			GL11.glTranslated(-3.95F, 0.0F, 0);
+			GL11.glTranslated(-4.015F, 0.0F, 0);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 			GL11.glPopMatrix();
 
 		} else {
 			Tessellator.bindTexture(new ResourceLocation(Info.resourceLocation, "textures/trains/newBogies/HTCR_newer_Black.png"));
 			GL11.glPushMatrix();
-			GL11.glTranslatef(-1.97F, 0.0F, 0F);
+			GL11.glTranslatef(-2.01F, -0.005F, 0F);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 
 			GL11.glRotatef(180, 0, 1, 0);
-			GL11.glTranslated(-3.95F, 0.0F, 0);
+			GL11.glTranslated(-4.015F, 0.0F, 0);
 			bogie.render(entity, f, f1, f2, f3, f4, f5);
 			GL11.glPopMatrix();
 

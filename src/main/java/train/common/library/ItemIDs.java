@@ -705,6 +705,7 @@ public enum ItemIDs {
 	minecartVersaTrans("ItemRollingStock", "versatrans", FREIGHT, 4),
 	minecartMillGondola("ItemRollingStock", "millgondola", FREIGHT, 4),
 	minecartWoodchipHopper("ItemRollingStock", "woodchiphopper", FREIGHT, 4),
+	minecartFMCWoodchip("ItemRollingStock", "Gunderson_woodchip_gondola", FREIGHT, 4),
 	minecartOreJenny("ItemRollingStock", "orejenny", FREIGHT, 2),
 	minecartPRRGLaHopper("ItemRollingStock", "PRRGLaHopper", FREIGHT, 2),
 	minecartACF41Gon("ItemRollingStock", "ACF_41_6_gon", FREIGHT, 3),
@@ -884,12 +885,14 @@ public enum ItemIDs {
 	minecartPEcooch("ItemRollingStock", "pecoach", PASSENGER, 6),
 	minecartPEobserve("ItemRollingStock", "peobserve", PASSENGER, 6),
 
+	minecartPullman69ChairCar("ItemRollingStock", "p69ch", PASSENGER, 3),
+
 	//othershizzle//
 	minecartWVcaboose("ItemRollingStock", "wvcaboose", BOOSE,3),
 	minecartHBC1Ccaboose("ItemRollingStock", "HBC1C", BOOSE,3),
 	minecartHBC1Bcaboose("ItemRollingStock", "HBC1B", BOOSE,3),
 	minecartDRGWCaboose("ItemRollingStock", "DRGW_01400_series_caboose", BOOSE,3),
-	minecartICC_Bobber("ItemRollingStock", "icc_bobber_icon", BOOSE,100),
+	minecartICC_Bobber("ItemRollingStock", "icc_bobber_icon", BOOSE,3),
 	minecartICCBaywindowWP("ItemRollingStock", "wp_iccbaywindow_icon", BOOSE,3),
 	minecartCA11("ItemRollingStock", "hop_on_paint_dot_net", BOOSE,3),
 	minecartWPShops600Series("ItemRollingStock", "wp648680_series_icon", BOOSE,3),

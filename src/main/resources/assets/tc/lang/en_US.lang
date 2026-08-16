@@ -1128,11 +1128,11 @@ item.tc:minecart44Ton.name=GE 44-Ton
 item.tc:minecartBoxcab23Ton.name=GE 23-Ton Boxcab
 item.tc:minecart25Ton.name=GE 25-Ton
 
-item.tc:minecartU18B.name=GE U18B (Old Model)
+item.tc:minecartU18B.name=GE U18B (Old Model SOON TO BE REMOVED)
 item.tc:minecartU18BB.name=GE U18B B-Unit
 item.tc:minecartU18BW.name=CEE/GE U18B(W)
 item.tc:minecartU18BWH.name=CEE U18B(W)H
-item.tc:minecartU18Balt.name=GE U18B (Temp. New Model)
+item.tc:minecartU18Balt.name=GE U18B
 item.tc:minecartU23B.name=GE U23B
 item.tc:minecartU23BU.name=CEE U23B(U)
 item.tc:minecartU23BW.name=CEE U23B(W)
@@ -1343,6 +1343,7 @@ item.tc:minecartVersaLongi.name=Versaflood Longitudinal Hopper
 item.tc:minecartVersaTrans.name=Versaflood Transverse Hopper
 item.tc:minecartMillGondola.name=52' Mill Gondola
 item.tc:minecartWoodchipHopper.name=Thrall 59' Woodchip Hopper
+item.tc:minecartFMCWoodchip.name=Gunderson-FMC Woodchip Hopper
 item.tc:minecartOreJenny.name=Ore Jenny
 item.tc:minecartPRRGLaHopper.name= PRR GLa Hopper and clones
 item.tc:minecartACF41Gon.name=AC&F 41' 6" Gondola
@@ -1524,6 +1525,7 @@ item.tc:minecartAmCafe.name=Amfleet Cafe Car
 item.tc:minecartAmCafe2.name=Amfleet 2 Cafe Car
 item.tc:minecartPEcooch.name=Polar Express Coach
 item.tc:minecartPEobserve.name=Polar Express Observation
+item.tc:minecartPullman69ChairCar.name=Pullman 69' Chair Car (SOU)
 
 --------------------------------------------------------
 

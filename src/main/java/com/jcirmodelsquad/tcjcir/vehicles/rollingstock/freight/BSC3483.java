@@ -63,6 +63,11 @@ public class BSC3483 extends AbstractStandardFreightCar
 
     @Override
     public float getOptimalDistance(EntityMinecart cart) {
-        return 2.57F;
+        return 2.52F;
+    }
+
+    @Override
+    public String transportYear() {
+        return "1964-1982";
     }
 }
